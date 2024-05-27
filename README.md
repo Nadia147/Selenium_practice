@@ -1,4 +1,4 @@
-<h1>SELENIUM
+<h1>SELENIUM</h1>
 Selenium is a software suite primarily used for automating web browsers.
 Here java language is been used.<br>
 <h2>Areas have been covered:</h2>
